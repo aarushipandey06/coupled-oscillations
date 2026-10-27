@@ -8,6 +8,10 @@ The numerical results are compared with theoretical predictions to examine the a
 
 ## Physical Model
 
+The system consists of two equal masses connected by three identical springs.
+
+![Schematic diagram of the coupled oscillation system](images/coupled_oscillations_schematic.png)
+
 The system consists of two masses, each of mass $m$, connected by three springs, each with spring constant $k$. The outer springs are attached to fixed walls, and the middle spring couples the two masses.
 
 The equations of motion are
