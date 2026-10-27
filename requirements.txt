@@ -1,0 +1,4 @@
+Python libraries used:
+numpy
+matplotlib
+scipy
